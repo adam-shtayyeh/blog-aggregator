@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1784225318177,
+      "tag": "0000_short_mach_iv",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1784227330816,
+      "tag": "0001_loose_ironclad",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1784228499310,
+      "tag": "0002_slimy_sentry",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1784317994440,
+      "tag": "0003_rainy_infant_terrible",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1784318776349,
+      "tag": "0004_aromatic_wildside",
+      "breakpoints": true
+    }
+  ]
+}
